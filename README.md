@@ -22,3 +22,5 @@ This is a full-stack authentication and dashboard application built as part of t
 - MongoDB
 - JWT Authentication
 
+  [ APIs follow Rest conventions under /api/v1/*]
+
