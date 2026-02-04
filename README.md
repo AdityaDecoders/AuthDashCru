@@ -22,4 +22,3 @@ This is a full-stack authentication and dashboard application built as part of t
 - MongoDB
 - JWT Authentication
 
-## Project Structure
